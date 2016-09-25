@@ -62,7 +62,7 @@ h2{
     width:8.33%;
   }
   .col-lg-2{
-    wdith:16.66%;
+    width:16.66%;
   }
   .col-lg-3{
     width:24.99%
@@ -104,7 +104,7 @@ h2{
     width:8.33%;
   }
   .col-md-2{
-    wdith:16.66%;
+    width:16.66%;
   }
   .col-md-3{
     width:24.99%
@@ -115,13 +115,13 @@ h2{
   .col-md-5{
     width:41.65%
   }
-  .col-lg-6{
+  .col-md-6{
     width:49.98%
   }
-  .col-lg-7{
+  .col-md-7{
     width:58.31%
   }
-  .col-lg-8{
+  .col-md-8{
     width: 66.64%
   }
   .col-md-9{
