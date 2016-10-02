@@ -9,7 +9,7 @@ body{
  }
 .navbar-brand h1{
   font-size: 30px;
-  font-wight:bold;
+  font-weight:bold;
   margin-top:-10px;
   margin-bottom:0;
   color:#000;
@@ -26,4 +26,12 @@ text-decoration:none;
 }
 #nav-list a:hover{
   background:#ffffff;
+}
+.section{
+  background-color:#B3B3B4;
+  font-size:16px;
+  padding:10px;
+  padding-top:1px;
+  margin-right:20px;
+  margin-bottom:20px;
 }
