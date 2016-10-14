@@ -126,6 +126,7 @@ var chosenCategoryShortName=chooseRandomCategory(categories);
       // Use the existing insertHtml function for that purpose. Look through this code for an example
       // of how to do that.
       // ....
+      switchMenuToActive();
       insertHtml ("#main-content",homeHtmlToInsertIntoMainPage);
 
     },
